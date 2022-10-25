@@ -3,10 +3,11 @@
 <div align='center' >   
 
 <a href="www.linkedin.com/in/omar-hassan219
-">    LinkedIn        </a> 
+">           </a> 
 
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+This site was built using [LinkedIn](www.linkedin.com/in/omar-hassan219
+)
 
 
 
