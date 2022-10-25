@@ -2,12 +2,14 @@
 
 <div align='center' >   
 
-<a href="www.linkedin.com/in/omar-hassan219
-">           </a> 
 
 
-This site was built using [LinkedIn](https://www.linkedin.com/in/omar-hassan219/
+
+[LinkedIn](https://www.linkedin.com/in/omar-hassan219/
 )
+[Portfolio](https://omar-portfolio-three.vercel.app/
+)
+
 
 
 
