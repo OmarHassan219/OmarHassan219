@@ -6,7 +6,7 @@
 ">           </a> 
 
 
-This site was built using [LinkedIn](www.linkedin.com/in/omar-hassan219
+This site was built using [LinkedIn](https://www.linkedin.com/in/omar-hassan219/
 )
 
 
